@@ -1,0 +1,6 @@
+this is
+sample
+file
+for reading
+with
+python
